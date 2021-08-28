@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/uwanasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uwanasinghe" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/udarawanasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="udarawanasinghe" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9470914/udarawanasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="udarawanasinghe" height="30" width="40" /></a>
 <a href="https://instagram.com/wa_udara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wa_udara" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/udarawanasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="udarawanasinghe" height="30" width="40" /></a>
 </p>
